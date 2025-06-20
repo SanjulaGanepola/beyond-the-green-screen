@@ -6,6 +6,6 @@ If you have ever submitted a bug report to the Code for IBM i team, you will kno
 
 But here is the real tip: you can often diagnose the issue yourself just by checking this log!
 
-Whenever Code for IBM i runs any command, it logs everything—the command itself, the return code, and both the standard output and standard error. So the next time something doesn’t work as expected, scroll through the log, find the command that was run, and take a look at the messages. You might be surprised how often you can quickly spot the issue yourself and get issues resolved faster.
+Whenever Code for IBM i runs any command, it logs everything—the command itself, the return code, and both the standard output and standard error. So the next time something doesn’t work as expected, scroll through the log, find the command that was run, and take a look at the messages. You might be surprised how often you can quickly spot the issue yourself and get them resolved faster.
 
 Follow for more #ibmi tips that go #BeyondTheGreenScreen
