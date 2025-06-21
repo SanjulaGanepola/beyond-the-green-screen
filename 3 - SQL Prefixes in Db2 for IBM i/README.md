@@ -5,6 +5,9 @@ One of my favourite features in the Db2 for IBM i extension is its support for S
   • csv - Result as CSV
   • sql - Result set as SQL insert statement
   • rpg - Result set as an RPG data structure
+
+There are also other useful prefixes for additional actions:
+  • update - Update result sets directly in the result set view
   • cl - Run CL commands
 
 Shoutout to @LiamAllan and @ScottForstie for this great feature!
