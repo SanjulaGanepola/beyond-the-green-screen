@@ -1,4 +1,4 @@
-👨‍💻 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 𝟴) - CL Content Assist
+👨‍💻 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - CL Content Assist
 
 One of the most common questions we get is "How do I prompt for CL commands in VS Code?". Unlike RDi or the traditional green screen, VS Code does not bring up a dedicated UI for command prompting. Instead, it uses Content Assist to guide you through parameters seamlessly.
 

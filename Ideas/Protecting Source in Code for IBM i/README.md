@@ -1,4 +1,4 @@
-🔒 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 𝟮) - Protecting Source in Code for IBM i
+🔒 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Protecting Source in Code for IBM i
 
 Whether you are working with *ALLOBJ authority or just want to prevent accidental changes to your source code, Code for IBM i offers several options to help protect your source:
 1. Default Open Mode – Sets the default behavior when opening a source member or stream file. This applies globally across all connections.
