@@ -1,4 +1,4 @@
-🚚 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Migrating Source With Project Explorer
+🚚 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 𝟮) - Migrating Source With Project Explorer
 
 One of the first steps toward modern development with Git on IBM i is migrating your source out of QSYS and into a Git repository. Fortunately, Project Explorer makes this process simple with an intuitive UI.
 
