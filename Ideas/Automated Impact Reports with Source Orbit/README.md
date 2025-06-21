@@ -1,4 +1,4 @@
-🤖 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Automated Impact Reports with Source Orbit
+📋 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Automated Impact Reports with Source Orbit
 
 Continuing from Day ?, where we automated builds using ibmi-ci—let’s take it a step further. What if every pull request not only triggered a build, but also told you exactly what objects were impacted by the changes?
 
