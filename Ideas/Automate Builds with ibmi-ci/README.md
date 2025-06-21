@@ -1,4 +1,4 @@
-🤖 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Automating Builds with ibmi-ci
+🤖 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Automate Builds with ibmi-ci
 
 Ever wish you could automate your builds on IBM i? Picture this: your team works in branches, submits pull requests for code reviews, and once approved—your code is automatically built. With ibmi-ci, this is now a reality!
 

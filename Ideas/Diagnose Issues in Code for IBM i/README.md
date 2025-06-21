@@ -1,4 +1,4 @@
-🕵🏻‍♂️ 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Diagnosing Issues in Code for IBM i
+🕵🏻‍♂️ 𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗚𝗿𝗲𝗲𝗻 𝗦𝗰𝗿𝗲𝗲𝗻 (𝗗𝗮𝘆 ?) - Diagnose Issues in Code for IBM i
 
 If you have ever submitted a bug report to the Code for IBM i team, you will know that we often ask for the full extension log to help diagnose what went wrong. There are two simple ways to get it:
   • Copy it directly from the "Code for IBM i" output channel
