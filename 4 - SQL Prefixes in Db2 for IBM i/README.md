@@ -10,6 +10,6 @@ There are also other useful prefixes for additional actions:
   • update - Update result sets directly in the result set view
   • cl - Run CL commands
 
-Shoutout to @LiamAllan and @ScottForstie for this great feature!
+Shoutout to the wizards @LiamBarryAllan and @ScottForstie for this great feature!
 
 Follow for more #ibmi tips that go #BeyondTheGreenScreen
